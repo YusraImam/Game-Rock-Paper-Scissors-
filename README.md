@@ -12,7 +12,7 @@
 <li> <b>Rock beats Scissors:</b> If you choose Rock and the computer chooses Scissors, then you win that round, as Rock beats Scissors (Rock crushes Scissors). You would score one point for winning the round.</li>
 <li><b>Scissors beat Paper:</b> If you choose Scissors and the computer chooses Paper, then you win that round because Scissors beats Paper (Scissors cut Paper). You would score one point for winning that round.</li>
 <li> <b>Paper beats Rock:</b> If you choose Paper and the computer chooses Rock, then you win that round because Paper covers Rock . You would score one point for winning that round.</li></ul>
-</ol><br/>
+</ol>
 <p>If both players select the same option, it’s a tie, and you can play again to break the tie!</p>
 
 <p>Your points will display and updated on the screen along with a message indicating whether you won or lost the round.</p>
