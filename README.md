@@ -16,3 +16,4 @@
 <p>If both players select the same option, it’s a tie, and you can play again to break the tie!</p>
 
 <p>Your points will display and updated on the screen along with a message indicating whether you won or lost the round.</p>
+<ol>
